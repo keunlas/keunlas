@@ -1,10 +1,9 @@
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
-- 😄 
-- ⚡ 
+Hello! Nice to meet you!
+
+I bilieve that everything is connected to everything else.
+
+Let's wait and see what happens in the future.
+
 
 <!---
 keunlas/keunlas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
