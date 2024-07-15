@@ -1,10 +1,6 @@
 # Hello! Nice to meet you!
 
-I bilieve that everything is connected to everything else.
 
-Our encounter should change the world.
-
-Let's wait and see what happens in the future.
 
 
 <!---
