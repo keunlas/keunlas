@@ -2,12 +2,11 @@
 
 This file seems to appears in my homepage.
 
-Looks great!!!
+✨Looks great!!!✨
 
 ```cpp
 #include <iostream>
-int main()
-{
+int main() {
     std::cout << "hello world" << std::endl;
     return 0;
 }
